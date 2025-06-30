@@ -14,6 +14,6 @@ spring:
       discovery:
         namespace: dev
   application:
-    name: admin-service  # 当前服务名
+    name: otc-service  # 当前服务名
 server:
-  port: 10007
+  port: 10006

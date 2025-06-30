@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bbexchange</groupId>
-    <artifactId>admin-service</artifactId>
+    <artifactId>api-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>admin-service</name>
-    <description>admin</description>
+    <name>api-service</name>
+    <description>api</description>
     <parent>
         <groupId>com.bbexchange</groupId>
         <artifactId>exchange</artifactId>
